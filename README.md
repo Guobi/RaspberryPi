@@ -33,3 +33,6 @@ tail -f /var/log/syslog | grep CRON
 ```
 chmod +x PingZaobao.sh
 ```
+
+### Establish a cloud connection
+https://www.realvnc.com/en/connect/docs/raspberry-pi.html#raspberry-pi-connect-cloud
