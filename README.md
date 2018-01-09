@@ -20,7 +20,7 @@ crontab -e
 #### Example
 ```
 * * * * * date>>/home/pi/Log/cron.log
-ping -c 3 www.zaobao.com
+* * * * * ping -c 3 www.zaobao.com
 ```
 #### Monitor cron
 ```
